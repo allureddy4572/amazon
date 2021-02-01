@@ -1,1 +1,2 @@
-This file is git pull command
+git fetch is also added
+1This file is git pull command
