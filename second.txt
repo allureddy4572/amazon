@@ -1,3 +1,6 @@
+hello git stash
+I am from master
 I am form dev branch
+
 Hello everyone
 
